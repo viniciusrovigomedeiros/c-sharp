@@ -1,0 +1,3 @@
+C:\aplicativos\c#\beiço\CSharpWarren\WarrenTechAcademy\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+C:\aplicativos\c#\beiço\CSharpWarren\WarrenTechAcademy\Console\obj\Debug\Console.csproj.SuggestedBindingRedirects.cache
+C:\aplicativos\c#\beiço\CSharpWarren\WarrenTechAcademy\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
